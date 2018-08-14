@@ -1,6 +1,9 @@
-#DefiniÁ„o da estrutura: ios,android
+#Defini√ß√£o da estrutura: ios,android
 
-#DefiniÁ„o dos componentes:Servidor, Banco de Dados , Interface.
+#Defini√ß√£o dos componentes:Servidor, Banco de Dados , Interface.
 
 #funcionamento: uma pulseira que armazena em um banco de dados todos os exames feitos pelo usuario, facilitando assim, a 
-vizualizaÁ„o de todos os exames ja feitos pelo paciente em todos os locais sendo elas: clÌnicas especializadas, hospitais, farm·cias entre outros.
+vizualiza√ß√£o de todos os exames ja feitos pelo paciente em todos os locais sendo elas: cl√≠nicas especializadas, hospitais, farm√°cias entre outros.
+#nome:leonardo lira gama 
+#RA:1701888
+#login:leonardoliragama
