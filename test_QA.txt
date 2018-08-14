@@ -1,7 +1,3 @@
-# Bruna Moreira Santos - RA: 1800049
-# Lucas Santos Erenha - RA: 1800671
-# Matheus Djegov - RA: 1601396
-
 # validar se é possivel alimentar os dados com diferentes tipos de exames
 # validar se é possivel anexar imagem, arquivos compactados
 # validar se é possivel escrever em todos lugares dentro do produto
