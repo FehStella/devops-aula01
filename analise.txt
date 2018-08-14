@@ -1,1 +1,4 @@
-Produto para área de saúde que vai ser alimentado por dados de resultados de exames, consultas, cirurgias e informações dos pacientes, gerando um histórico de saúde acessível que facilita, melhora e legitima o diagnóstico médico. O produto é um elemento inter-relacionado onde as informações de saúde do usuário é armazenado e todo histórico disponibilizado dentro de cada frente, desenvolvido em plataforma web e mobile que tem como público alvo hospitais, clínicas, instituto de saúde e pacientes, farmácia.
+# Produto para Ã¡rea de saÃºde que vai ser alimentado por dados de resultados de exames, consultas, cirurgias e informaÃ§Ãµes dos pacientes, gerando um histÃ³rico de saÃºde acessÃ­vel que facilita, melhora e legitima o diagnÃ³stico mÃ©dico. O produto Ã© um elemento inter-relacionado onde as informaÃ§Ãµes de saÃºde do usuÃ¡rio Ã© armazenado e todo histÃ³rico disponibilizado dentro de cada frente, desenvolvido em plataforma web e mobile que tem como pÃºblico alvo hospitais, clÃ­nicas, instituto de saÃºde e pacientes, farmÃ¡cia.
+# Nome:  Fernanda Stella Souza Moreira
+# Ra: 1800289 
+# Username:  FehStella
