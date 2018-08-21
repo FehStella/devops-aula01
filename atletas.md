@@ -1,3 +1,2 @@
 # Melhores atletas
-< LeBron James >
-----
+< Cristiano Ronaldo >
