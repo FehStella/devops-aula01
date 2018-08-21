@@ -1,3 +1,3 @@
 # Melhores atletas
-< LeBron James >
+<nome>
 ----
