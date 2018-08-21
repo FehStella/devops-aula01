@@ -1,4 +1,4 @@
 # Melhores atletas
-< Luan de oliveria >
+< Luan de oliveira >
 
 ----
