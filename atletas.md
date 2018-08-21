@@ -1,5 +1,3 @@
 # Melhores atletas
-
-< Cesar Cielo >
-< LeBron James >
+# Cesar Cielo
 ----
